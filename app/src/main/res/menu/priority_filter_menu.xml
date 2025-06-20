@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/filter_all_priority"
+        android:title="Semua Prioritas" />
+    <item
+        android:id="@+id/filter_high_priority"
+        android:title="Tinggi" />
+    <item
+        android:id="@+id/filter_medium_priority"
+        android:title="Sedang" />
+    <item
+        android:id="@+id/filter_low_priority"
+        android:title="Rendah" />
+</menu>

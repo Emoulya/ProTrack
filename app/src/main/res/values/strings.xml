@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProTrack</string>
+
+    <!-- Main Activity -->
+    <string name="greeting_morning">Selamat Pagi</string>
+    <string name="greeting_afternoon">Selamat Siang</string>
+    <string name="greeting_evening">Selamat Sore</string>
+    <string name="greeting_night">Selamat Malam</string>
+    <string name="today_tasks">Tugas Hari Ini</string>
+
+    <!-- Task Status -->
+    <string name="status_pending">Pending</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_done">Done</string>
+
+    <!-- Task Priority -->
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+
+    <!-- Actions -->
+    <string name="mark_as_done">Mark as Done</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">Delete Task</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_inbox">Inbox</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Common -->
+    <string name="deadline">Deadline</string>
+    <string name="status">Status</string>
+    <string name="note">Note</string>
+    <string name="today">Hari ini</string>
+    <string name="tomorrow">Besok</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_profile">Profile</string>
+    <string name="cd_expand">Expand</string>
+    <string name="cd_priority">Priority</string>
+    <string name="cd_more_options">More options</string>
+
+    <string-array name="priority_filter_options">
+        <item>Semua Prioritas</item>
+        <item>Tinggi</item>
+        <item>Sedang</item>
+        <item>Rendah</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="light_blue">#BBDEFB</color>
+    <color name="dark_blue">#1976D2</color>
+
+    <!-- Status Colors -->
+    <color name="status_yellow">#FFC107</color>
+    <color name="status_orange">#FF9800</color>
+    <color name="status_green">#4CAF50</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#F44336</color>
+    <color name="priority_medium">#FF9800</color>
+    <color name="priority_low">#4CAF50</color>
+
+    <!-- Text Colors -->
+    <color name="dark_text">#212121</color>
+    <color name="gray_text">#757575</color>
+    <color name="light_gray_text">#BDBDBD</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- System Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

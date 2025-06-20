@@ -1,0 +1,1293 @@
+Folder PATH listing for volume Volume
+Volume serial number is 9095-3539
+C:\USERS\LENOV\ANDROIDSTUDIOPROJECTS\PROTRACK
+¦   .gitignore
+¦   build.gradle.kts
+¦   generate_tree.bat
+¦   gradle.properties
+¦   gradlew
+¦   gradlew.bat
+¦   local.properties
+¦   settings.gradle.kts
+¦   struktur_folder.txt
+¦   
++---.gradle
+¦   ¦   config.properties
+¦   ¦   file-system.probe
+¦   ¦   
+¦   +---8.11.1
+¦   ¦   ¦   gc.properties
+¦   ¦   ¦   
+¦   ¦   +---checksums
+¦   ¦   ¦       checksums.lock
+¦   ¦   ¦       md5-checksums.bin
+¦   ¦   ¦       sha1-checksums.bin
+¦   ¦   ¦       
+¦   ¦   +---executionHistory
+¦   ¦   ¦       executionHistory.bin
+¦   ¦   ¦       executionHistory.lock
+¦   ¦   ¦       
+¦   ¦   +---expanded
+¦   ¦   +---fileChanges
+¦   ¦   ¦       last-build.bin
+¦   ¦   ¦       
+¦   ¦   +---fileHashes
+¦   ¦   ¦       fileHashes.bin
+¦   ¦   ¦       fileHashes.lock
+¦   ¦   ¦       resourceHashesCache.bin
+¦   ¦   ¦       
+¦   ¦   +---vcsMetadata
+¦   +---buildOutputCleanup
+¦   ¦       buildOutputCleanup.lock
+¦   ¦       cache.properties
+¦   ¦       outputFiles.bin
+¦   ¦       
+¦   +---vcs-1
+¦           gc.properties
+¦           
++---.idea
+¦   ¦   .gitignore
+¦   ¦   AndroidProjectSystem.xml
+¦   ¦   assetWizardSettings.xml
+¦   ¦   compiler.xml
+¦   ¦   deploymentTargetSelector.xml
+¦   ¦   gradle.xml
+¦   ¦   migrations.xml
+¦   ¦   misc.xml
+¦   ¦   runConfigurations.xml
+¦   ¦   workspace.xml
+¦   ¦   
+¦   +---caches
+¦           deviceStreaming.xml
+¦           
++---app
+¦   ¦   .gitignore
+¦   ¦   build.gradle.kts
+¦   ¦   proguard-rules.pro
+¦   ¦   
+¦   +---build
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦               +---example
+¦   ¦   ¦   ¦                   +---protrack
+¦   ¦   ¦   ¦                       +---database
+¦   ¦   ¦   ¦                               AppDatabase_Impl.java
+¦   ¦   ¦   ¦                               TaskDao_Impl.java
+¦   ¦   ¦   ¦                               
+¦   ¦   ¦   +---data_binding_base_class_source_out
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦               +---example
+¦   ¦   ¦   ¦                   +---protrack
+¦   ¦   ¦   ¦                       +---databinding
+¦   ¦   ¦   ¦                               ActivityAddTaskBinding.java
+¦   ¦   ¦   ¦                               ActivityMainBinding.java
+¦   ¦   ¦   ¦                               ActivitySplashBinding.java
+¦   ¦   ¦   ¦                               FragmentHomeBinding.java
+¦   ¦   ¦   ¦                               FragmentTasksBinding.java
+¦   ¦   ¦   ¦                               ItemTaskBinding.java
+¦   ¦   ¦   ¦                               
+¦   ¦   ¦   +---res
+¦   ¦   ¦       +---pngs
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       +---resValues
+¦   ¦   ¦           +---debug
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aar_metadata_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---checkDebugAarMetadata
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---javaPreCompileDebug
+¦   ¦   ¦   ¦               annotationProcessors.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---apk
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           app-debug.apk
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---apk_ide_redirect_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---createDebugApkListingFileRedirect
+¦   ¦   ¦   ¦               redirect.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---app_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---writeDebugAppMetadata
+¦   ¦   ¦   ¦               app-metadata.properties
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugAssets
+¦   ¦   ¦   +---compatible_screen_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---createDebugCompatibleScreenManifests
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---compile_and_runtime_not_namespaced_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               R.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---compressed_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---compressDebugAssets
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---data_binding_base_class_log_artifact
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dataBindingGenBaseClassesDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦                   com.example.protrack-binding_classes.json
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---data_binding_dependency_artifacts
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dataBindingMergeDependencyArtifactsDebug
+¦   ¦   ¦   +---data_binding_layout_info_type_merge
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦                   activity_add_task-layout.xml
+¦   ¦   ¦   ¦                   activity_main-layout.xml
+¦   ¦   ¦   ¦                   activity_splash-layout.xml
+¦   ¦   ¦   ¦                   fragment_home-layout.xml
+¦   ¦   ¦   ¦                   fragment_tasks-layout.xml
+¦   ¦   ¦   ¦                   item_task-layout.xml
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---packageDebugResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦                   activity_add_task-layout.xml
+¦   ¦   ¦   ¦                   activity_main-layout.xml
+¦   ¦   ¦   ¦                   activity_splash-layout.xml
+¦   ¦   ¦   ¦                   fragment_home-layout.xml
+¦   ¦   ¦   ¦                   fragment_tasks-layout.xml
+¦   ¦   ¦   ¦                   item_task-layout.xml
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---desugar_graph
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---currentProject
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_0
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_1
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_2
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_3
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_4
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_5
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_c5471074344bf2d2e8d3c9ff689fa1d8035c2647f32e7b2ecb149f60b6874704_bucket_0
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_c5471074344bf2d2e8d3c9ff689fa1d8035c2647f32e7b2ecb149f60b6874704_bucket_1
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_c5471074344bf2d2e8d3c9ff689fa1d8035c2647f32e7b2ecb149f60b6874704_bucket_2
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_c5471074344bf2d2e8d3c9ff689fa1d8035c2647f32e7b2ecb149f60b6874704_bucket_3
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_c5471074344bf2d2e8d3c9ff689fa1d8035c2647f32e7b2ecb149f60b6874704_bucket_4
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_c5471074344bf2d2e8d3c9ff689fa1d8035c2647f32e7b2ecb149f60b6874704_bucket_5
+¦   ¦   ¦   ¦               ¦           graph.bin
+¦   ¦   ¦   ¦               ¦           
+¦   ¦   ¦   ¦               +---externalLibs
+¦   ¦   ¦   ¦               +---mixedScopes
+¦   ¦   ¦   ¦               +---otherProjects
+¦   ¦   ¦   +---dex
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeExtDexDebug
+¦   ¦   ¦   ¦       ¦       classes.dex
+¦   ¦   ¦   ¦       ¦       classes2.dex
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mergeLibDexDebug
+¦   ¦   ¦   ¦       ¦   +---0
+¦   ¦   ¦   ¦       ¦   +---1
+¦   ¦   ¦   ¦       ¦   +---10
+¦   ¦   ¦   ¦       ¦   +---11
+¦   ¦   ¦   ¦       ¦   +---12
+¦   ¦   ¦   ¦       ¦   +---13
+¦   ¦   ¦   ¦       ¦   +---14
+¦   ¦   ¦   ¦       ¦   +---15
+¦   ¦   ¦   ¦       ¦   +---2
+¦   ¦   ¦   ¦       ¦   +---3
+¦   ¦   ¦   ¦       ¦   +---4
+¦   ¦   ¦   ¦       ¦   +---5
+¦   ¦   ¦   ¦       ¦   +---6
+¦   ¦   ¦   ¦       ¦   +---7
+¦   ¦   ¦   ¦       ¦   +---8
+¦   ¦   ¦   ¦       ¦   +---9
+¦   ¦   ¦   ¦       +---mergeProjectDexDebug
+¦   ¦   ¦   ¦           +---0
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---1
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---10
+¦   ¦   ¦   ¦           +---11
+¦   ¦   ¦   ¦           +---12
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---13
+¦   ¦   ¦   ¦           +---14
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---15
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---2
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---3
+¦   ¦   ¦   ¦           +---4
+¦   ¦   ¦   ¦           +---5
+¦   ¦   ¦   ¦           +---6
+¦   ¦   ¦   ¦           +---7
+¦   ¦   ¦   ¦           +---8
+¦   ¦   ¦   ¦           +---9
+¦   ¦   ¦   ¦                   classes.dex
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---dex_archive_input_jar_hashes
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦               out
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---dex_number_of_buckets_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦               out
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---duplicate_classes_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---checkDebugDuplicateClasses
+¦   ¦   ¦   +---external_file_lib_dex_archives
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---desugarDebugFileDependencies
+¦   ¦   ¦   +---external_libs_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---external_libs_dex_archive_with_artifact_transforms
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---dataBindingGenBaseClassesDebug
+¦   ¦   ¦   ¦   ¦       base_builder_log.json
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦   ¦   ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦   ¦   ¦   merger.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---merged.dir
+¦   ¦   ¦   ¦   ¦   ¦   +---stripped.dir
+¦   ¦   ¦   ¦   ¦   ¦       +---layout
+¦   ¦   ¦   ¦   ¦   ¦               activity_splash.xml
+¦   ¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   ¦           +---layout
+¦   ¦   ¦   ¦   ¦                   activity_splash.xml
+¦   ¦   ¦   ¦   ¦                   
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   ¦           1vGtvzhbz+c4eZroT6QGBrOusrs=
+¦   ¦   ¦   ¦   ¦           2HdjArDgdHqjK9AAHzWxTaHgmiA=
+¦   ¦   ¦   ¦   ¦           4d2g2tW6jMcXzhUeZpPT+BFHVcA=
+¦   ¦   ¦   ¦   ¦           4L65U6onGGWYcmXQsBqR7QdFUPY=
+¦   ¦   ¦   ¦   ¦           4m7ml1jfhP_xc9avFlz9LU2dVoA=
+¦   ¦   ¦   ¦   ¦           4SEBDNNIRIoECEJ6QL2QyzEXsoo=
+¦   ¦   ¦   ¦   ¦           5EhrEXppXlm_75IMQIYZCfqK05I=
+¦   ¦   ¦   ¦   ¦           5Sssfc42E_D5ORVSM4BaCgyuaBY=
+¦   ¦   ¦   ¦   ¦           6udWU+GkyELw1Pbd4E8AJ0ChvqQ=
+¦   ¦   ¦   ¦   ¦           6unYqOd3lHT4BOFFftTGe1OeHl0=
+¦   ¦   ¦   ¦   ¦           7Ve6SWjaHsk0AYS5q0ekg3xyQCk=
+¦   ¦   ¦   ¦   ¦           85pOlO7YLaE6F4TFfZi+fG6evIY=
+¦   ¦   ¦   ¦   ¦           8LAow2cXNdEdH793Jbi5Kt5_szU=
+¦   ¦   ¦   ¦   ¦           8tWdcQb0hvgU7iJw00DJ0fb5Eg8=
+¦   ¦   ¦   ¦   ¦           91gKa+JPfmeM_pXwlWBzEdwmQKM=
+¦   ¦   ¦   ¦   ¦           AD1h4+AU6qCBx6iA3UpYnIQ8Yzw=
+¦   ¦   ¦   ¦   ¦           ag465tL4jB1KGkYzDjeTUajmkLU=
+¦   ¦   ¦   ¦   ¦           akUP8TIyZLJIyViY1DtKV+r0vMw=
+¦   ¦   ¦   ¦   ¦           AnIp26Qq0VFLafEFfme981ujI3s=
+¦   ¦   ¦   ¦   ¦           AQUQepzC9C0UrzVwhmxXfMI8R5w=
+¦   ¦   ¦   ¦   ¦           a_N7tyfM5j55jsBKC4NjAf+q_k4=
+¦   ¦   ¦   ¦   ¦           b+q9Ve4pd2A28mf94Nq_aKZKKIU=
+¦   ¦   ¦   ¦   ¦           bh5quN85xyyV1Dy2M2ZJvNslXQU=
+¦   ¦   ¦   ¦   ¦           bR14VDXAd+9Jb0bIKo7A1lIpYJY=
+¦   ¦   ¦   ¦   ¦           CAl64sPPjFasbLRGMKeqwt1LY+4=
+¦   ¦   ¦   ¦   ¦           cb8k237lTJ2yH2jEJmtkZX5ey08=
+¦   ¦   ¦   ¦   ¦           CweE_6GEJ9hV55qnCImY_O5u3F0=
+¦   ¦   ¦   ¦   ¦           dE2ddt8bUpIZ5ptSRyTq8M+sne4=
+¦   ¦   ¦   ¦   ¦           DhCnwHosjLEq5aM4rcWTF5I5AQ4=
+¦   ¦   ¦   ¦   ¦           dKi_eNcPsDZHAflvHiEmjFiOqI8=
+¦   ¦   ¦   ¦   ¦           DSH6w62lGkXC7DsAyIX9tFLhKEI=
+¦   ¦   ¦   ¦   ¦           dtjmzeQwURKjQY+OWUizePtO6Qw=
+¦   ¦   ¦   ¦   ¦           EAYw3rhP2AzZaI+A4PJlj5+IVXk=
+¦   ¦   ¦   ¦   ¦           eDBWip2wFvSsSIuVFoyDon+hoCI=
+¦   ¦   ¦   ¦   ¦           EfYvGr8Sw4lb_gRwpQRnt086WiQ=
+¦   ¦   ¦   ¦   ¦           ehbEcHGSs1uWhRCxwTmFVJqmjTc=
+¦   ¦   ¦   ¦   ¦           eIcX71RzDOyXjJ086zdc2Ko2PWM=
+¦   ¦   ¦   ¦   ¦           fETYVf_BBJgTAgvlgs0VzI36vo0=
+¦   ¦   ¦   ¦   ¦           fq5WxVys52s+gPf6JP0a7RrXQxM=
+¦   ¦   ¦   ¦   ¦           ftodWQg1FJ3KczqXZtkKlD371DQ=
+¦   ¦   ¦   ¦   ¦           FUIBZ6xJynXDWUrYNYjfVpNOZkg=
+¦   ¦   ¦   ¦   ¦           g2cV3SgpLZW0XQxyywk+s1CktMc=
+¦   ¦   ¦   ¦   ¦           GI2TyUSL5ja2Wy10+7AEtbJLh9I=
+¦   ¦   ¦   ¦   ¦           H555NjGHtRWGaqp16vBWTc2iX90=
+¦   ¦   ¦   ¦   ¦           HbkYqFfInPT8Z2sTXsrmMXuewe0=
+¦   ¦   ¦   ¦   ¦           hjbBoa+6TEKLjLjO+LS5gegcvwY=
+¦   ¦   ¦   ¦   ¦           HkFWVA7LxhnxX1lr6JofJGUxBwU=
+¦   ¦   ¦   ¦   ¦           isfqKtA0EQ9XzlXW_vyz1jhsJ00=
+¦   ¦   ¦   ¦   ¦           jPaI9a8lfsnmbKMnmhqzCdDTgs8=
+¦   ¦   ¦   ¦   ¦           jWFomQsxKhw+mszJFDueag_wI6w=
+¦   ¦   ¦   ¦   ¦           JXaGBfqwbOVm8nbQUn3I0nUaotQ=
+¦   ¦   ¦   ¦   ¦           k5Y+kleOv2vLUex3T3w9zI5ioIo=
+¦   ¦   ¦   ¦   ¦           LHcqFAkgE66fPfEXgKRSp7wc0_E=
+¦   ¦   ¦   ¦   ¦           lKBp_NWNVU_WYc2VL0QZSb3QQXQ=
+¦   ¦   ¦   ¦   ¦           lSv6PSNdsX0r7TLytA03OHSpgR8=
+¦   ¦   ¦   ¦   ¦           m8cMxml+bdOtqnpgE0CK3GJARGE=
+¦   ¦   ¦   ¦   ¦           mkYxX_Zl4opHzIw_zZqlH7AeIwo=
+¦   ¦   ¦   ¦   ¦           NjDqDYTEBipsqst4AmjpO2OH2WY=
+¦   ¦   ¦   ¦   ¦           NyCJz9TXZTHMeyHEhEOR33apM0o=
+¦   ¦   ¦   ¦   ¦           Oq8akgbCz1NYorkLeLG7UDsPbq8=
+¦   ¦   ¦   ¦   ¦           pBxpT7eCZ4HC39HJtZascupOMB0=
+¦   ¦   ¦   ¦   ¦           PjR4el9KTvYlQVT1zsl9K8WOCWE=
+¦   ¦   ¦   ¦   ¦           pK90HqrXMl9suTqboQNDA99k3ik=
+¦   ¦   ¦   ¦   ¦           pl4cf3vCQhxi0dAptda2c8a5EWI=
+¦   ¦   ¦   ¦   ¦           pS2qPfsM+tzJ3Dhiuat8SHl0+pM=
+¦   ¦   ¦   ¦   ¦           pUedg+0hixAuqjhb5eMEo3TSu4s=
+¦   ¦   ¦   ¦   ¦           rbR9hgthCF0iO6se1qsfharHMSY=
+¦   ¦   ¦   ¦   ¦           RERltNy2yN7_Y5vFZyw4fKrm8qs=
+¦   ¦   ¦   ¦   ¦           RRS4h5JUwDnKO03fkKvikHRTvi0=
+¦   ¦   ¦   ¦   ¦           RZ0Ao3Ug7yZaDXowdLEG2K4OeU4=
+¦   ¦   ¦   ¦   ¦           SMOQ8AAGBR99QUS53zRVatwvQcI=
+¦   ¦   ¦   ¦   ¦           sQt0Ql48ud4ZvS0wmXUvFxA9FnA=
+¦   ¦   ¦   ¦   ¦           sZx3C0RVL6zKdS4Ogoquax1x0lg=
+¦   ¦   ¦   ¦   ¦           tf6r_syAV2CxrgR3UpwIpgFcGpQ=
+¦   ¦   ¦   ¦   ¦           TfrQKjDkeA+1f+47pUP6cGIfVWU=
+¦   ¦   ¦   ¦   ¦           tHRQl1sMqdu9__ckepJfZe0q3EA=
+¦   ¦   ¦   ¦   ¦           tYBOyIB4IoYQ4CDpmTJznXQBDCQ=
+¦   ¦   ¦   ¦   ¦           UcN5jRFa9z6wtVFQwjBt+NuZ6hk=
+¦   ¦   ¦   ¦   ¦           UonGfivf1r6zJOQk_wjIrCqFNyQ=
+¦   ¦   ¦   ¦   ¦           u_Jf1hLiGRhDP1d+Hi+b+ZtRBrQ=
+¦   ¦   ¦   ¦   ¦           vLFnxBLLVlirU2hGZYeoBrJn1Yk=
+¦   ¦   ¦   ¦   ¦           vZDR2GGVpa5+5XlliNhAJtbpNOk=
+¦   ¦   ¦   ¦   ¦           WCtUhGqXXz_JnZhsZMS1lVoqzRM=
+¦   ¦   ¦   ¦   ¦           wNYaPSzf0+MeLmPympw6gr5BiRU=
+¦   ¦   ¦   ¦   ¦           X2ELa+9qoCCcrL4AVecXJrWOryg=
+¦   ¦   ¦   ¦   ¦           XCJ_78oUrcz5IrTtszEXWIU5LMg=
+¦   ¦   ¦   ¦   ¦           xHMgvUZG2bJYun4X7kPH1cK3pMk=
+¦   ¦   ¦   ¦   ¦           YHJg7X1qTjIV9eeAPKVLSjgznYw=
+¦   ¦   ¦   ¦   ¦           YVw0XIWbdXUGJ22Ay5yP3d_GfCA=
+¦   ¦   ¦   ¦   ¦           zPO+9JK7IlCnsbJxz0l3YraHWyc=
+¦   ¦   ¦   ¦   ¦           _5keGoHkuu2MJJsF_v+BXanXL1g=
+¦   ¦   ¦   ¦   ¦           _Z7RnTCucyGm+IQ9aVYL2gV_s6A=
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---mergeDebugAssets
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebug
+¦   ¦   ¦   ¦   ¦   +---tmp
+¦   ¦   ¦   ¦   ¦       +---debug
+¦   ¦   ¦   ¦   ¦           ¦   dex-renamer-state.txt
+¦   ¦   ¦   ¦   ¦           ¦   
+¦   ¦   ¦   ¦   ¦           +---zip-cache
+¦   ¦   ¦   ¦   ¦                   androidResources
+¦   ¦   ¦   ¦   ¦                   javaResources0
+¦   ¦   ¦   ¦   ¦                   
+¦   ¦   ¦   ¦   +---processDebugResources
+¦   ¦   ¦   ¦           resources-list-for-linked-resources-binary-format-debug.ap_.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦   ¦   ¦           +---classes
+¦   ¦   ¦   ¦               +---com
+¦   ¦   ¦   ¦                   +---example
+¦   ¦   ¦   ¦                       +---protrack
+¦   ¦   ¦   ¦                           ¦   AddTaskActivity.class
+¦   ¦   ¦   ¦                           ¦   MainActivity.class
+¦   ¦   ¦   ¦                           ¦   OnTaskActionsListener.class
+¦   ¦   ¦   ¦                           ¦   SplashActivity$1.class
+¦   ¦   ¦   ¦                           ¦   SplashActivity.class
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$1.class
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$OnTaskActionListener.class
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$OnTaskClickListener.class
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$TaskDiffCallback.class
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$TaskViewHolder.class
+¦   ¦   ¦   ¦                           ¦   TaskAdapter.class
+¦   ¦   ¦   ¦                           ¦   
+¦   ¦   ¦   ¦                           +---database
+¦   ¦   ¦   ¦                           ¦       AppDatabase$1.class
+¦   ¦   ¦   ¦                           ¦       AppDatabase.class
+¦   ¦   ¦   ¦                           ¦       AppDatabase_Impl$1.class
+¦   ¦   ¦   ¦                           ¦       AppDatabase_Impl.class
+¦   ¦   ¦   ¦                           ¦       Converters.class
+¦   ¦   ¦   ¦                           ¦       TaskDao.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$1.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$10.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$11.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$12.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$13.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$14.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$15.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$16.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$17.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$18.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$19.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$2.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$3.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$4.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$5.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$6.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$7.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$8.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$9.class
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl.class
+¦   ¦   ¦   ¦                           ¦       TaskEntity.class
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---databinding
+¦   ¦   ¦   ¦                           ¦       ActivityAddTaskBinding.class
+¦   ¦   ¦   ¦                           ¦       ActivityMainBinding.class
+¦   ¦   ¦   ¦                           ¦       ActivitySplashBinding.class
+¦   ¦   ¦   ¦                           ¦       FragmentHomeBinding.class
+¦   ¦   ¦   ¦                           ¦       FragmentTasksBinding.class
+¦   ¦   ¦   ¦                           ¦       ItemTaskBinding.class
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---enums
+¦   ¦   ¦   ¦                           ¦       TaskPriority.class
+¦   ¦   ¦   ¦                           ¦       TaskStatus.class
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---repository
+¦   ¦   ¦   ¦                           ¦       TaskRepository$InsertCallback.class
+¦   ¦   ¦   ¦                           ¦       TaskRepository.class
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---ui
+¦   ¦   ¦   ¦                           ¦   +---home
+¦   ¦   ¦   ¦                           ¦   ¦       HomeFragment.class
+¦   ¦   ¦   ¦                           ¦   ¦       
+¦   ¦   ¦   ¦                           ¦   +---tasks
+¦   ¦   ¦   ¦                           ¦           TasksFragment.class
+¦   ¦   ¦   ¦                           ¦           
+¦   ¦   ¦   ¦                           +---viewmodel
+¦   ¦   ¦   ¦                                   TaskViewModel.class
+¦   ¦   ¦   ¦                                   
+¦   ¦   ¦   +---java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugJavaRes
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---com
+¦   ¦   ¦   ¦                   +---example
+¦   ¦   ¦   ¦                       +---protrack
+¦   ¦   ¦   ¦                           +---database
+¦   ¦   ¦   ¦                           +---databinding
+¦   ¦   ¦   ¦                           +---enums
+¦   ¦   ¦   ¦                           +---repository
+¦   ¦   ¦   ¦                           +---ui
+¦   ¦   ¦   ¦                           ¦   +---home
+¦   ¦   ¦   ¦                           ¦   +---tasks
+¦   ¦   ¦   ¦                           +---viewmodel
+¦   ¦   ¦   +---linked_resources_binary_format
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               linked-resources-binary-format-debug.ap_
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---parseDebugLocalResources
+¦   ¦   ¦   ¦               R-def.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugMainManifest
+¦   ¦   ¦   ¦               manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugJavaResource
+¦   ¦   ¦   ¦               base.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugMainManifest
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugManifest
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugResources
+¦   ¦   ¦   ¦               drawable_button_blue_bg.xml.flat
+¦   ¦   ¦   ¦               drawable_circle_green_bg.xml.flat
+¦   ¦   ¦   ¦               drawable_circle_low_bg.xml.flat
+¦   ¦   ¦   ¦               drawable_circle_medium_bg.xml.flat
+¦   ¦   ¦   ¦               drawable_circle_primary_blue_bg.xml.flat
+¦   ¦   ¦   ¦               drawable_circle_priority_bg.xml.flat
+¦   ¦   ¦   ¦               drawable_circle_white_bg.xml.flat
+¦   ¦   ¦   ¦               drawable_fab_background.xml.flat
+¦   ¦   ¦   ¦               drawable_gradient_background.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_add.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_copy.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_delete.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_edit.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_expand.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_home_filled.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_inbox.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_launcher_background.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_launcher_foreground.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_more_vert.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_person.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_profile.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_project.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_task.xml.flat
+¦   ¦   ¦   ¦               drawable_input_background.xml.flat
+¦   ¦   ¦   ¦               drawable_my_logo.png.flat
+¦   ¦   ¦   ¦               drawable_rounded_card_background.xml.flat
+¦   ¦   ¦   ¦               drawable_spinner_background.xml.flat
+¦   ¦   ¦   ¦               layout_activity_add_task.xml.flat
+¦   ¦   ¦   ¦               layout_activity_main.xml.flat
+¦   ¦   ¦   ¦               layout_activity_splash.xml.flat
+¦   ¦   ¦   ¦               layout_fragment_home.xml.flat
+¦   ¦   ¦   ¦               layout_fragment_tasks.xml.flat
+¦   ¦   ¦   ¦               layout_item_task.xml.flat
+¦   ¦   ¦   ¦               menu_bottom_nav_menu.xml.flat
+¦   ¦   ¦   ¦               menu_task_popup_menu.xml.flat
+¦   ¦   ¦   ¦               mipmap-anydpi_ic_launcher.xml.flat
+¦   ¦   ¦   ¦               mipmap-anydpi_ic_launcher_round.xml.flat
+¦   ¦   ¦   ¦               mipmap-hdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-hdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-mdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-mdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-xhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-xhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxxhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxxhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               values-af_values-af.arsc.flat
+¦   ¦   ¦   ¦               values-am_values-am.arsc.flat
+¦   ¦   ¦   ¦               values-ar_values-ar.arsc.flat
+¦   ¦   ¦   ¦               values-as_values-as.arsc.flat
+¦   ¦   ¦   ¦               values-az_values-az.arsc.flat
+¦   ¦   ¦   ¦               values-b+es+419_values-b+es+419.arsc.flat
+¦   ¦   ¦   ¦               values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+¦   ¦   ¦   ¦               values-be_values-be.arsc.flat
+¦   ¦   ¦   ¦               values-bg_values-bg.arsc.flat
+¦   ¦   ¦   ¦               values-bn-rBD_values-bn-rBD.arsc.flat
+¦   ¦   ¦   ¦               values-bn_values-bn.arsc.flat
+¦   ¦   ¦   ¦               values-bs_values-bs.arsc.flat
+¦   ¦   ¦   ¦               values-ca_values-ca.arsc.flat
+¦   ¦   ¦   ¦               values-cs_values-cs.arsc.flat
+¦   ¦   ¦   ¦               values-da_values-da.arsc.flat
+¦   ¦   ¦   ¦               values-de_values-de.arsc.flat
+¦   ¦   ¦   ¦               values-el_values-el.arsc.flat
+¦   ¦   ¦   ¦               values-en-rAU_values-en-rAU.arsc.flat
+¦   ¦   ¦   ¦               values-en-rCA_values-en-rCA.arsc.flat
+¦   ¦   ¦   ¦               values-en-rGB_values-en-rGB.arsc.flat
+¦   ¦   ¦   ¦               values-en-rIN_values-en-rIN.arsc.flat
+¦   ¦   ¦   ¦               values-en-rXC_values-en-rXC.arsc.flat
+¦   ¦   ¦   ¦               values-es-rUS_values-es-rUS.arsc.flat
+¦   ¦   ¦   ¦               values-es_values-es.arsc.flat
+¦   ¦   ¦   ¦               values-et-rEE_values-et-rEE.arsc.flat
+¦   ¦   ¦   ¦               values-et_values-et.arsc.flat
+¦   ¦   ¦   ¦               values-eu-rES_values-eu-rES.arsc.flat
+¦   ¦   ¦   ¦               values-eu_values-eu.arsc.flat
+¦   ¦   ¦   ¦               values-fa_values-fa.arsc.flat
+¦   ¦   ¦   ¦               values-fi_values-fi.arsc.flat
+¦   ¦   ¦   ¦               values-fr-rCA_values-fr-rCA.arsc.flat
+¦   ¦   ¦   ¦               values-fr_values-fr.arsc.flat
+¦   ¦   ¦   ¦               values-gl-rES_values-gl-rES.arsc.flat
+¦   ¦   ¦   ¦               values-gl_values-gl.arsc.flat
+¦   ¦   ¦   ¦               values-gu_values-gu.arsc.flat
+¦   ¦   ¦   ¦               values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h720dp-v13_values-h720dp-v13.arsc.flat
+¦   ¦   ¦   ¦               values-hdpi-v4_values-hdpi-v4.arsc.flat
+¦   ¦   ¦   ¦               values-hi_values-hi.arsc.flat
+¦   ¦   ¦   ¦               values-hr_values-hr.arsc.flat
+¦   ¦   ¦   ¦               values-hu_values-hu.arsc.flat
+¦   ¦   ¦   ¦               values-hy-rAM_values-hy-rAM.arsc.flat
+¦   ¦   ¦   ¦               values-hy_values-hy.arsc.flat
+¦   ¦   ¦   ¦               values-in_values-in.arsc.flat
+¦   ¦   ¦   ¦               values-is-rIS_values-is-rIS.arsc.flat
+¦   ¦   ¦   ¦               values-is_values-is.arsc.flat
+¦   ¦   ¦   ¦               values-it_values-it.arsc.flat
+¦   ¦   ¦   ¦               values-iw_values-iw.arsc.flat
+¦   ¦   ¦   ¦               values-ja_values-ja.arsc.flat
+¦   ¦   ¦   ¦               values-ka-rGE_values-ka-rGE.arsc.flat
+¦   ¦   ¦   ¦               values-ka_values-ka.arsc.flat
+¦   ¦   ¦   ¦               values-kk-rKZ_values-kk-rKZ.arsc.flat
+¦   ¦   ¦   ¦               values-kk_values-kk.arsc.flat
+¦   ¦   ¦   ¦               values-km-rKH_values-km-rKH.arsc.flat
+¦   ¦   ¦   ¦               values-km_values-km.arsc.flat
+¦   ¦   ¦   ¦               values-kn-rIN_values-kn-rIN.arsc.flat
+¦   ¦   ¦   ¦               values-kn_values-kn.arsc.flat
+¦   ¦   ¦   ¦               values-ko_values-ko.arsc.flat
+¦   ¦   ¦   ¦               values-ky-rKG_values-ky-rKG.arsc.flat
+¦   ¦   ¦   ¦               values-ky_values-ky.arsc.flat
+¦   ¦   ¦   ¦               values-land_values-land.arsc.flat
+¦   ¦   ¦   ¦               values-large-v4_values-large-v4.arsc.flat
+¦   ¦   ¦   ¦               values-ldltr-v21_values-ldltr-v21.arsc.flat
+¦   ¦   ¦   ¦               values-ldrtl-v17_values-ldrtl-v17.arsc.flat
+¦   ¦   ¦   ¦               values-lo-rLA_values-lo-rLA.arsc.flat
+¦   ¦   ¦   ¦               values-lo_values-lo.arsc.flat
+¦   ¦   ¦   ¦               values-lt_values-lt.arsc.flat
+¦   ¦   ¦   ¦               values-lv_values-lv.arsc.flat
+¦   ¦   ¦   ¦               values-mk-rMK_values-mk-rMK.arsc.flat
+¦   ¦   ¦   ¦               values-mk_values-mk.arsc.flat
+¦   ¦   ¦   ¦               values-ml-rIN_values-ml-rIN.arsc.flat
+¦   ¦   ¦   ¦               values-ml_values-ml.arsc.flat
+¦   ¦   ¦   ¦               values-mn-rMN_values-mn-rMN.arsc.flat
+¦   ¦   ¦   ¦               values-mn_values-mn.arsc.flat
+¦   ¦   ¦   ¦               values-mr-rIN_values-mr-rIN.arsc.flat
+¦   ¦   ¦   ¦               values-mr_values-mr.arsc.flat
+¦   ¦   ¦   ¦               values-ms-rMY_values-ms-rMY.arsc.flat
+¦   ¦   ¦   ¦               values-ms_values-ms.arsc.flat
+¦   ¦   ¦   ¦               values-my-rMM_values-my-rMM.arsc.flat
+¦   ¦   ¦   ¦               values-my_values-my.arsc.flat
+¦   ¦   ¦   ¦               values-nb_values-nb.arsc.flat
+¦   ¦   ¦   ¦               values-ne-rNP_values-ne-rNP.arsc.flat
+¦   ¦   ¦   ¦               values-ne_values-ne.arsc.flat
+¦   ¦   ¦   ¦               values-night-v8_values-night-v8.arsc.flat
+¦   ¦   ¦   ¦               values-nl_values-nl.arsc.flat
+¦   ¦   ¦   ¦               values-or_values-or.arsc.flat
+¦   ¦   ¦   ¦               values-pa_values-pa.arsc.flat
+¦   ¦   ¦   ¦               values-pl_values-pl.arsc.flat
+¦   ¦   ¦   ¦               values-port_values-port.arsc.flat
+¦   ¦   ¦   ¦               values-pt-rBR_values-pt-rBR.arsc.flat
+¦   ¦   ¦   ¦               values-pt-rPT_values-pt-rPT.arsc.flat
+¦   ¦   ¦   ¦               values-pt_values-pt.arsc.flat
+¦   ¦   ¦   ¦               values-ro_values-ro.arsc.flat
+¦   ¦   ¦   ¦               values-ru_values-ru.arsc.flat
+¦   ¦   ¦   ¦               values-si-rLK_values-si-rLK.arsc.flat
+¦   ¦   ¦   ¦               values-si_values-si.arsc.flat
+¦   ¦   ¦   ¦               values-sk_values-sk.arsc.flat
+¦   ¦   ¦   ¦               values-sl_values-sl.arsc.flat
+¦   ¦   ¦   ¦               values-small-v4_values-small-v4.arsc.flat
+¦   ¦   ¦   ¦               values-sq_values-sq.arsc.flat
+¦   ¦   ¦   ¦               values-sr_values-sr.arsc.flat
+¦   ¦   ¦   ¦               values-sv_values-sv.arsc.flat
+¦   ¦   ¦   ¦               values-sw360dp-v13_values-sw360dp-v13.arsc.flat
+¦   ¦   ¦   ¦               values-sw600dp-land-v13_values-sw600dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-sw600dp-v13_values-sw600dp-v13.arsc.flat
+¦   ¦   ¦   ¦               values-sw_values-sw.arsc.flat
+¦   ¦   ¦   ¦               values-ta-rIN_values-ta-rIN.arsc.flat
+¦   ¦   ¦   ¦               values-ta_values-ta.arsc.flat
+¦   ¦   ¦   ¦               values-te-rIN_values-te-rIN.arsc.flat
+¦   ¦   ¦   ¦               values-te_values-te.arsc.flat
+¦   ¦   ¦   ¦               values-th_values-th.arsc.flat
+¦   ¦   ¦   ¦               values-tl_values-tl.arsc.flat
+¦   ¦   ¦   ¦               values-tr_values-tr.arsc.flat
+¦   ¦   ¦   ¦               values-uk_values-uk.arsc.flat
+¦   ¦   ¦   ¦               values-ur-rPK_values-ur-rPK.arsc.flat
+¦   ¦   ¦   ¦               values-ur_values-ur.arsc.flat
+¦   ¦   ¦   ¦               values-uz-rUZ_values-uz-rUZ.arsc.flat
+¦   ¦   ¦   ¦               values-uz_values-uz.arsc.flat
+¦   ¦   ¦   ¦               values-v16_values-v16.arsc.flat
+¦   ¦   ¦   ¦               values-v17_values-v17.arsc.flat
+¦   ¦   ¦   ¦               values-v18_values-v18.arsc.flat
+¦   ¦   ¦   ¦               values-v21_values-v21.arsc.flat
+¦   ¦   ¦   ¦               values-v22_values-v22.arsc.flat
+¦   ¦   ¦   ¦               values-v23_values-v23.arsc.flat
+¦   ¦   ¦   ¦               values-v24_values-v24.arsc.flat
+¦   ¦   ¦   ¦               values-v25_values-v25.arsc.flat
+¦   ¦   ¦   ¦               values-v26_values-v26.arsc.flat
+¦   ¦   ¦   ¦               values-v28_values-v28.arsc.flat
+¦   ¦   ¦   ¦               values-v31_values-v31.arsc.flat
+¦   ¦   ¦   ¦               values-v34_values-v34.arsc.flat
+¦   ¦   ¦   ¦               values-vi_values-vi.arsc.flat
+¦   ¦   ¦   ¦               values-w270dp-h560dp-v13_values-w270dp-h560dp-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w560dp-land-v13_values-w560dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-watch-v20_values-watch-v20.arsc.flat
+¦   ¦   ¦   ¦               values-watch-v21_values-watch-v21.arsc.flat
+¦   ¦   ¦   ¦               values-xlarge-v4_values-xlarge-v4.arsc.flat
+¦   ¦   ¦   ¦               values-zh-rCN_values-zh-rCN.arsc.flat
+¦   ¦   ¦   ¦               values-zh-rHK_values-zh-rHK.arsc.flat
+¦   ¦   ¦   ¦               values-zh-rTW_values-zh-rTW.arsc.flat
+¦   ¦   ¦   ¦               values-zu_values-zu.arsc.flat
+¦   ¦   ¦   ¦               values_values.arsc.flat
+¦   ¦   ¦   ¦               xml_backup_rules.xml.flat
+¦   ¦   ¦   ¦               xml_data_extraction_rules.xml.flat
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_res_blame_folder
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---multi-v2
+¦   ¦   ¦   ¦               ¦       mergeDebugResources.json
+¦   ¦   ¦   ¦               ¦       values-af.json
+¦   ¦   ¦   ¦               ¦       values-am.json
+¦   ¦   ¦   ¦               ¦       values-ar.json
+¦   ¦   ¦   ¦               ¦       values-as.json
+¦   ¦   ¦   ¦               ¦       values-az.json
+¦   ¦   ¦   ¦               ¦       values-b+es+419.json
+¦   ¦   ¦   ¦               ¦       values-b+sr+Latn.json
+¦   ¦   ¦   ¦               ¦       values-be.json
+¦   ¦   ¦   ¦               ¦       values-bg.json
+¦   ¦   ¦   ¦               ¦       values-bn-rBD.json
+¦   ¦   ¦   ¦               ¦       values-bn.json
+¦   ¦   ¦   ¦               ¦       values-bs.json
+¦   ¦   ¦   ¦               ¦       values-ca.json
+¦   ¦   ¦   ¦               ¦       values-cs.json
+¦   ¦   ¦   ¦               ¦       values-da.json
+¦   ¦   ¦   ¦               ¦       values-de.json
+¦   ¦   ¦   ¦               ¦       values-el.json
+¦   ¦   ¦   ¦               ¦       values-en-rAU.json
+¦   ¦   ¦   ¦               ¦       values-en-rCA.json
+¦   ¦   ¦   ¦               ¦       values-en-rGB.json
+¦   ¦   ¦   ¦               ¦       values-en-rIN.json
+¦   ¦   ¦   ¦               ¦       values-en-rXC.json
+¦   ¦   ¦   ¦               ¦       values-es-rUS.json
+¦   ¦   ¦   ¦               ¦       values-es.json
+¦   ¦   ¦   ¦               ¦       values-et-rEE.json
+¦   ¦   ¦   ¦               ¦       values-et.json
+¦   ¦   ¦   ¦               ¦       values-eu-rES.json
+¦   ¦   ¦   ¦               ¦       values-eu.json
+¦   ¦   ¦   ¦               ¦       values-fa.json
+¦   ¦   ¦   ¦               ¦       values-fi.json
+¦   ¦   ¦   ¦               ¦       values-fr-rCA.json
+¦   ¦   ¦   ¦               ¦       values-fr.json
+¦   ¦   ¦   ¦               ¦       values-gl-rES.json
+¦   ¦   ¦   ¦               ¦       values-gl.json
+¦   ¦   ¦   ¦               ¦       values-gu.json
+¦   ¦   ¦   ¦               ¦       values-h320dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-h360dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-h480dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-h550dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-h720dp-v13.json
+¦   ¦   ¦   ¦               ¦       values-hdpi-v4.json
+¦   ¦   ¦   ¦               ¦       values-hi.json
+¦   ¦   ¦   ¦               ¦       values-hr.json
+¦   ¦   ¦   ¦               ¦       values-hu.json
+¦   ¦   ¦   ¦               ¦       values-hy-rAM.json
+¦   ¦   ¦   ¦               ¦       values-hy.json
+¦   ¦   ¦   ¦               ¦       values-in.json
+¦   ¦   ¦   ¦               ¦       values-is-rIS.json
+¦   ¦   ¦   ¦               ¦       values-is.json
+¦   ¦   ¦   ¦               ¦       values-it.json
+¦   ¦   ¦   ¦               ¦       values-iw.json
+¦   ¦   ¦   ¦               ¦       values-ja.json
+¦   ¦   ¦   ¦               ¦       values-ka-rGE.json
+¦   ¦   ¦   ¦               ¦       values-ka.json
+¦   ¦   ¦   ¦               ¦       values-kk-rKZ.json
+¦   ¦   ¦   ¦               ¦       values-kk.json
+¦   ¦   ¦   ¦               ¦       values-km-rKH.json
+¦   ¦   ¦   ¦               ¦       values-km.json
+¦   ¦   ¦   ¦               ¦       values-kn-rIN.json
+¦   ¦   ¦   ¦               ¦       values-kn.json
+¦   ¦   ¦   ¦               ¦       values-ko.json
+¦   ¦   ¦   ¦               ¦       values-ky-rKG.json
+¦   ¦   ¦   ¦               ¦       values-ky.json
+¦   ¦   ¦   ¦               ¦       values-land.json
+¦   ¦   ¦   ¦               ¦       values-large-v4.json
+¦   ¦   ¦   ¦               ¦       values-ldltr-v21.json
+¦   ¦   ¦   ¦               ¦       values-ldrtl-v17.json
+¦   ¦   ¦   ¦               ¦       values-lo-rLA.json
+¦   ¦   ¦   ¦               ¦       values-lo.json
+¦   ¦   ¦   ¦               ¦       values-lt.json
+¦   ¦   ¦   ¦               ¦       values-lv.json
+¦   ¦   ¦   ¦               ¦       values-mk-rMK.json
+¦   ¦   ¦   ¦               ¦       values-mk.json
+¦   ¦   ¦   ¦               ¦       values-ml-rIN.json
+¦   ¦   ¦   ¦               ¦       values-ml.json
+¦   ¦   ¦   ¦               ¦       values-mn-rMN.json
+¦   ¦   ¦   ¦               ¦       values-mn.json
+¦   ¦   ¦   ¦               ¦       values-mr-rIN.json
+¦   ¦   ¦   ¦               ¦       values-mr.json
+¦   ¦   ¦   ¦               ¦       values-ms-rMY.json
+¦   ¦   ¦   ¦               ¦       values-ms.json
+¦   ¦   ¦   ¦               ¦       values-my-rMM.json
+¦   ¦   ¦   ¦               ¦       values-my.json
+¦   ¦   ¦   ¦               ¦       values-nb.json
+¦   ¦   ¦   ¦               ¦       values-ne-rNP.json
+¦   ¦   ¦   ¦               ¦       values-ne.json
+¦   ¦   ¦   ¦               ¦       values-night-v8.json
+¦   ¦   ¦   ¦               ¦       values-nl.json
+¦   ¦   ¦   ¦               ¦       values-or.json
+¦   ¦   ¦   ¦               ¦       values-pa.json
+¦   ¦   ¦   ¦               ¦       values-pl.json
+¦   ¦   ¦   ¦               ¦       values-port.json
+¦   ¦   ¦   ¦               ¦       values-pt-rBR.json
+¦   ¦   ¦   ¦               ¦       values-pt-rPT.json
+¦   ¦   ¦   ¦               ¦       values-pt.json
+¦   ¦   ¦   ¦               ¦       values-ro.json
+¦   ¦   ¦   ¦               ¦       values-ru.json
+¦   ¦   ¦   ¦               ¦       values-si-rLK.json
+¦   ¦   ¦   ¦               ¦       values-si.json
+¦   ¦   ¦   ¦               ¦       values-sk.json
+¦   ¦   ¦   ¦               ¦       values-sl.json
+¦   ¦   ¦   ¦               ¦       values-small-v4.json
+¦   ¦   ¦   ¦               ¦       values-sq.json
+¦   ¦   ¦   ¦               ¦       values-sr.json
+¦   ¦   ¦   ¦               ¦       values-sv.json
+¦   ¦   ¦   ¦               ¦       values-sw.json
+¦   ¦   ¦   ¦               ¦       values-sw360dp-v13.json
+¦   ¦   ¦   ¦               ¦       values-sw600dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-sw600dp-v13.json
+¦   ¦   ¦   ¦               ¦       values-ta-rIN.json
+¦   ¦   ¦   ¦               ¦       values-ta.json
+¦   ¦   ¦   ¦               ¦       values-te-rIN.json
+¦   ¦   ¦   ¦               ¦       values-te.json
+¦   ¦   ¦   ¦               ¦       values-th.json
+¦   ¦   ¦   ¦               ¦       values-tl.json
+¦   ¦   ¦   ¦               ¦       values-tr.json
+¦   ¦   ¦   ¦               ¦       values-uk.json
+¦   ¦   ¦   ¦               ¦       values-ur-rPK.json
+¦   ¦   ¦   ¦               ¦       values-ur.json
+¦   ¦   ¦   ¦               ¦       values-uz-rUZ.json
+¦   ¦   ¦   ¦               ¦       values-uz.json
+¦   ¦   ¦   ¦               ¦       values-v16.json
+¦   ¦   ¦   ¦               ¦       values-v17.json
+¦   ¦   ¦   ¦               ¦       values-v18.json
+¦   ¦   ¦   ¦               ¦       values-v21.json
+¦   ¦   ¦   ¦               ¦       values-v22.json
+¦   ¦   ¦   ¦               ¦       values-v23.json
+¦   ¦   ¦   ¦               ¦       values-v24.json
+¦   ¦   ¦   ¦               ¦       values-v25.json
+¦   ¦   ¦   ¦               ¦       values-v26.json
+¦   ¦   ¦   ¦               ¦       values-v28.json
+¦   ¦   ¦   ¦               ¦       values-v31.json
+¦   ¦   ¦   ¦               ¦       values-v34.json
+¦   ¦   ¦   ¦               ¦       values-vi.json
+¦   ¦   ¦   ¦               ¦       values-w270dp-h560dp-v13.json
+¦   ¦   ¦   ¦               ¦       values-w320dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-w360dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-w400dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-w560dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-w600dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-watch-v20.json
+¦   ¦   ¦   ¦               ¦       values-watch-v21.json
+¦   ¦   ¦   ¦               ¦       values-xlarge-v4.json
+¦   ¦   ¦   ¦               ¦       values-zh-rCN.json
+¦   ¦   ¦   ¦               ¦       values-zh-rHK.json
+¦   ¦   ¦   ¦               ¦       values-zh-rTW.json
+¦   ¦   ¦   ¦               ¦       values-zu.json
+¦   ¦   ¦   ¦               ¦       values.json
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---single
+¦   ¦   ¦   ¦                       layout.json
+¦   ¦   ¦   ¦                       mergeDebugResources.json
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugShaders
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---mixed_scope_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---extractDeepLinksDebug
+¦   ¦   ¦   ¦               navigation.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---nested_resources_validation_report
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---generateDebugResources
+¦   ¦   ¦   ¦               nestedResourcesValidationReport.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---packaged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugManifestForPackage
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---packageDebugResources
+¦   ¦   ¦   ¦           +---drawable
+¦   ¦   ¦   ¦           ¦       button_blue_bg.xml
+¦   ¦   ¦   ¦           ¦       circle_green_bg.xml
+¦   ¦   ¦   ¦           ¦       circle_low_bg.xml
+¦   ¦   ¦   ¦           ¦       circle_medium_bg.xml
+¦   ¦   ¦   ¦           ¦       circle_primary_blue_bg.xml
+¦   ¦   ¦   ¦           ¦       circle_priority_bg.xml
+¦   ¦   ¦   ¦           ¦       circle_white_bg.xml
+¦   ¦   ¦   ¦           ¦       fab_background.xml
+¦   ¦   ¦   ¦           ¦       gradient_background.xml
+¦   ¦   ¦   ¦           ¦       ic_add.xml
+¦   ¦   ¦   ¦           ¦       ic_copy.xml
+¦   ¦   ¦   ¦           ¦       ic_delete.xml
+¦   ¦   ¦   ¦           ¦       ic_edit.xml
+¦   ¦   ¦   ¦           ¦       ic_expand.xml
+¦   ¦   ¦   ¦           ¦       ic_home_filled.xml
+¦   ¦   ¦   ¦           ¦       ic_inbox.xml
+¦   ¦   ¦   ¦           ¦       ic_launcher_background.xml
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.xml
+¦   ¦   ¦   ¦           ¦       ic_more_vert.xml
+¦   ¦   ¦   ¦           ¦       ic_person.xml
+¦   ¦   ¦   ¦           ¦       ic_profile.xml
+¦   ¦   ¦   ¦           ¦       ic_project.xml
+¦   ¦   ¦   ¦           ¦       ic_task.xml
+¦   ¦   ¦   ¦           ¦       input_background.xml
+¦   ¦   ¦   ¦           ¦       my_logo.png
+¦   ¦   ¦   ¦           ¦       rounded_card_background.xml
+¦   ¦   ¦   ¦           ¦       spinner_background.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---layout
+¦   ¦   ¦   ¦           ¦       activity_add_task.xml
+¦   ¦   ¦   ¦           ¦       activity_main.xml
+¦   ¦   ¦   ¦           ¦       activity_splash.xml
+¦   ¦   ¦   ¦           ¦       fragment_home.xml
+¦   ¦   ¦   ¦           ¦       fragment_tasks.xml
+¦   ¦   ¦   ¦           ¦       item_task.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---menu
+¦   ¦   ¦   ¦           ¦       bottom_nav_menu.xml
+¦   ¦   ¦   ¦           ¦       task_popup_menu.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-anydpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.xml
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-hdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-mdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xxxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---values
+¦   ¦   ¦   ¦           ¦       values.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---values-night-v8
+¦   ¦   ¦   ¦           ¦       values-night-v8.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---xml
+¦   ¦   ¦   ¦                   backup_rules.xml
+¦   ¦   ¦   ¦                   data_extraction_rules.xml
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               ¦   933aead294397018b3d323dfff477772b71ffb5b23a23b2ed426c0d09f80bc2b_0.jar
+¦   ¦   ¦   ¦               ¦   933aead294397018b3d323dfff477772b71ffb5b23a23b2ed426c0d09f80bc2b_1.jar
+¦   ¦   ¦   ¦               ¦   933aead294397018b3d323dfff477772b71ffb5b23a23b2ed426c0d09f80bc2b_2.jar
+¦   ¦   ¦   ¦               ¦   933aead294397018b3d323dfff477772b71ffb5b23a23b2ed426c0d09f80bc2b_3.jar
+¦   ¦   ¦   ¦               ¦   933aead294397018b3d323dfff477772b71ffb5b23a23b2ed426c0d09f80bc2b_4.jar
+¦   ¦   ¦   ¦               ¦   933aead294397018b3d323dfff477772b71ffb5b23a23b2ed426c0d09f80bc2b_5.jar
+¦   ¦   ¦   ¦               ¦   
+¦   ¦   ¦   ¦               +---com
+¦   ¦   ¦   ¦                   +---example
+¦   ¦   ¦   ¦                       +---protrack
+¦   ¦   ¦   ¦                           ¦   AddTaskActivity.dex
+¦   ¦   ¦   ¦                           ¦   MainActivity.dex
+¦   ¦   ¦   ¦                           ¦   OnTaskActionsListener.dex
+¦   ¦   ¦   ¦                           ¦   SplashActivity$1.dex
+¦   ¦   ¦   ¦                           ¦   SplashActivity.dex
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$1.dex
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$OnTaskActionListener.dex
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$OnTaskClickListener.dex
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$TaskDiffCallback.dex
+¦   ¦   ¦   ¦                           ¦   TaskAdapter$TaskViewHolder.dex
+¦   ¦   ¦   ¦                           ¦   TaskAdapter.dex
+¦   ¦   ¦   ¦                           ¦   
+¦   ¦   ¦   ¦                           +---database
+¦   ¦   ¦   ¦                           ¦       AppDatabase$1.dex
+¦   ¦   ¦   ¦                           ¦       AppDatabase.dex
+¦   ¦   ¦   ¦                           ¦       AppDatabase_Impl$1.dex
+¦   ¦   ¦   ¦                           ¦       AppDatabase_Impl.dex
+¦   ¦   ¦   ¦                           ¦       Converters.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$1.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$10.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$11.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$12.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$13.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$14.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$15.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$16.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$17.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$18.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$19.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$2.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$3.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$4.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$5.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$6.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$7.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$8.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl$9.dex
+¦   ¦   ¦   ¦                           ¦       TaskDao_Impl.dex
+¦   ¦   ¦   ¦                           ¦       TaskEntity.dex
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---databinding
+¦   ¦   ¦   ¦                           ¦       ActivityAddTaskBinding.dex
+¦   ¦   ¦   ¦                           ¦       ActivityMainBinding.dex
+¦   ¦   ¦   ¦                           ¦       ActivitySplashBinding.dex
+¦   ¦   ¦   ¦                           ¦       FragmentHomeBinding.dex
+¦   ¦   ¦   ¦                           ¦       FragmentTasksBinding.dex
+¦   ¦   ¦   ¦                           ¦       ItemTaskBinding.dex
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---enums
+¦   ¦   ¦   ¦                           ¦       TaskPriority.dex
+¦   ¦   ¦   ¦                           ¦       TaskStatus.dex
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---repository
+¦   ¦   ¦   ¦                           ¦       TaskRepository$InsertCallback.dex
+¦   ¦   ¦   ¦                           ¦       TaskRepository.dex
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---ui
+¦   ¦   ¦   ¦                           ¦   +---home
+¦   ¦   ¦   ¦                           ¦   ¦       HomeFragment.dex
+¦   ¦   ¦   ¦                           ¦   ¦       
+¦   ¦   ¦   ¦                           ¦   +---tasks
+¦   ¦   ¦   ¦                           ¦           TasksFragment.dex
+¦   ¦   ¦   ¦                           ¦           
+¦   ¦   ¦   ¦                           +---viewmodel
+¦   ¦   ¦   ¦                                   TaskViewModel.dex
+¦   ¦   ¦   ¦                                   
+¦   ¦   ¦   +---runtime_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               R.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---signing_config_versions
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---writeDebugSigningConfigVersions
+¦   ¦   ¦   ¦               signing-config-versions.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---source_set_path_map
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mapDebugSourceSetPaths
+¦   ¦   ¦   ¦               file-map.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---stable_resource_ids_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               stableIds.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---sub_project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---validate_signing_config
+¦   ¦   ¦       +---debug
+¦   ¦   ¦           +---validateSigningDebug
+¦   ¦   +---outputs
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦           ¦   previous-compilation-data.bin
+¦   ¦           ¦   
+¦   ¦           +---compileTransaction
+¦   ¦               +---backup-dir
+¦   ¦               +---stash-dir
+¦   ¦                       TaskAdapter$1.class.uniqueId1
+¦   ¦                       TaskAdapter$OnTaskActionListener.class.uniqueId3
+¦   ¦                       TaskAdapter$OnTaskClickListener.class.uniqueId0
+¦   ¦                       TaskAdapter$TaskDiffCallback.class.uniqueId4
+¦   ¦                       TaskAdapter$TaskViewHolder.class.uniqueId5
+¦   ¦                       TaskAdapter.class.uniqueId2
+¦   ¦                       
+¦   +---src
+¦       +---androidTest
+¦       ¦   +---java
+¦       ¦       +---com
+¦       ¦           +---example
+¦       ¦               +---protrack
+¦       ¦                       ExampleInstrumentedTest.java
+¦       ¦                       
+¦       +---main
+¦       ¦   ¦   AndroidManifest.xml
+¦       ¦   ¦   
+¦       ¦   +---java
+¦       ¦   ¦   +---com
+¦       ¦   ¦       +---example
+¦       ¦   ¦           +---protrack
+¦       ¦   ¦               ¦   AddTaskActivity.java
+¦       ¦   ¦               ¦   MainActivity.java
+¦       ¦   ¦               ¦   OnTaskActionsListener.java
+¦       ¦   ¦               ¦   SplashActivity.java
+¦       ¦   ¦               ¦   TaskAdapter.java
+¦       ¦   ¦               ¦   
+¦       ¦   ¦               +---database
+¦       ¦   ¦               ¦       AppDatabase.java
+¦       ¦   ¦               ¦       Converters.java
+¦       ¦   ¦               ¦       TaskDao.java
+¦       ¦   ¦               ¦       TaskEntity.java
+¦       ¦   ¦               ¦       
+¦       ¦   ¦               +---enums
+¦       ¦   ¦               ¦       TaskPriority.java
+¦       ¦   ¦               ¦       TaskStatus.java
+¦       ¦   ¦               ¦       
+¦       ¦   ¦               +---repository
+¦       ¦   ¦               ¦       TaskRepository.java
+¦       ¦   ¦               ¦       
+¦       ¦   ¦               +---ui
+¦       ¦   ¦               ¦   +---home
+¦       ¦   ¦               ¦   ¦       HomeFragment.java
+¦       ¦   ¦               ¦   ¦       
+¦       ¦   ¦               ¦   +---tasks
+¦       ¦   ¦               ¦           TasksFragment.java
+¦       ¦   ¦               ¦           
+¦       ¦   ¦               +---viewmodel
+¦       ¦   ¦                       TaskViewModel.java
+¦       ¦   ¦                       
+¦       ¦   +---res
+¦       ¦       +---drawable
+¦       ¦       ¦       button_blue_bg.xml
+¦       ¦       ¦       circle_green_bg.xml
+¦       ¦       ¦       circle_low_bg.xml
+¦       ¦       ¦       circle_medium_bg.xml
+¦       ¦       ¦       circle_primary_blue_bg.xml
+¦       ¦       ¦       circle_priority_bg.xml
+¦       ¦       ¦       circle_white_bg.xml
+¦       ¦       ¦       fab_background.xml
+¦       ¦       ¦       gradient_background.xml
+¦       ¦       ¦       ic_add.xml
+¦       ¦       ¦       ic_copy.xml
+¦       ¦       ¦       ic_delete.xml
+¦       ¦       ¦       ic_edit.xml
+¦       ¦       ¦       ic_expand.xml
+¦       ¦       ¦       ic_home_filled.xml
+¦       ¦       ¦       ic_inbox.xml
+¦       ¦       ¦       ic_launcher_background.xml
+¦       ¦       ¦       ic_launcher_foreground.xml
+¦       ¦       ¦       ic_more_vert.xml
+¦       ¦       ¦       ic_person.xml
+¦       ¦       ¦       ic_profile.xml
+¦       ¦       ¦       ic_project.xml
+¦       ¦       ¦       ic_task.xml
+¦       ¦       ¦       input_background.xml
+¦       ¦       ¦       my_logo.png
+¦       ¦       ¦       rounded_card_background.xml
+¦       ¦       ¦       spinner_background.xml
+¦       ¦       ¦       
+¦       ¦       +---layout
+¦       ¦       ¦       activity_add_task.xml
+¦       ¦       ¦       activity_main.xml
+¦       ¦       ¦       activity_splash.xml
+¦       ¦       ¦       fragment_home.xml
+¦       ¦       ¦       fragment_tasks.xml
+¦       ¦       ¦       item_task.xml
+¦       ¦       ¦       
+¦       ¦       +---menu
+¦       ¦       ¦       bottom_nav_menu.xml
+¦       ¦       ¦       task_popup_menu.xml
+¦       ¦       ¦       
+¦       ¦       +---mipmap-anydpi
+¦       ¦       ¦       ic_launcher.xml
+¦       ¦       ¦       ic_launcher_round.xml
+¦       ¦       ¦       
+¦       ¦       +---mipmap-hdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-mdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-xhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-xxhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-xxxhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---values
+¦       ¦       ¦       colors.xml
+¦       ¦       ¦       strings.xml
+¦       ¦       ¦       styles.xml
+¦       ¦       ¦       themes.xml
+¦       ¦       ¦       
+¦       ¦       +---values-night
+¦       ¦       ¦       themes.xml
+¦       ¦       ¦       
+¦       ¦       +---xml
+¦       ¦               backup_rules.xml
+¦       ¦               data_extraction_rules.xml
+¦       ¦               
+¦       +---test
+¦           +---java
+¦               +---com
+¦                   +---example
+¦                       +---protrack
+¦                               ExampleUnitTest.java
+¦                               
++---build
+¦   +---reports
+¦       +---problems
+¦               problems-report.html
+¦               
++---gradle
+    ¦   libs.versions.toml
+    ¦   
+    +---wrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+            
