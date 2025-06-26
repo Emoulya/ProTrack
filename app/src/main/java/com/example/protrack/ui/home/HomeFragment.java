@@ -150,7 +150,7 @@ public class HomeFragment extends Fragment implements
 
     private void updateDateTime() {
         String greeting = getGreetingBasedOnTime();
-        tvGreeting.setText(greeting + ", Mulia 👋");
+        tvGreeting.setText(greeting + "👋");
         SimpleDateFormat sdf = new SimpleDateFormat("EEEE, dd MMMM", new Locale("id", "ID")); // Check locale here
         String currentDate = "Hari ini: " + sdf.format(new Date());
         tvDate.setText(currentDate);
