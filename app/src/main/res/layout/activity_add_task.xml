@@ -16,7 +16,6 @@
             android:id="@+id/tvHeaderTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Tambah Tugas"
             android:textColor="@color/dark_blue"
             android:textSize="28sp"
             android:textStyle="bold"
